@@ -1,0 +1,15 @@
+/Users/teiki/Documents/Teiki.io/CS/AuthenticationSystem/AuthenticationSystem/bin/Debug/net6.0/AuthenticationSystem
+/Users/teiki/Documents/Teiki.io/CS/AuthenticationSystem/AuthenticationSystem/bin/Debug/net6.0/AuthenticationSystem.deps.json
+/Users/teiki/Documents/Teiki.io/CS/AuthenticationSystem/AuthenticationSystem/bin/Debug/net6.0/AuthenticationSystem.runtimeconfig.json
+/Users/teiki/Documents/Teiki.io/CS/AuthenticationSystem/AuthenticationSystem/bin/Debug/net6.0/AuthenticationSystem.dll
+/Users/teiki/Documents/Teiki.io/CS/AuthenticationSystem/AuthenticationSystem/bin/Debug/net6.0/AuthenticationSystem.pdb
+/Users/teiki/Documents/Teiki.io/CS/AuthenticationSystem/AuthenticationSystem/obj/Debug/net6.0/AuthenticationSystem.csproj.AssemblyReference.cache
+/Users/teiki/Documents/Teiki.io/CS/AuthenticationSystem/AuthenticationSystem/obj/Debug/net6.0/AuthenticationSystem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/teiki/Documents/Teiki.io/CS/AuthenticationSystem/AuthenticationSystem/obj/Debug/net6.0/AuthenticationSystem.AssemblyInfoInputs.cache
+/Users/teiki/Documents/Teiki.io/CS/AuthenticationSystem/AuthenticationSystem/obj/Debug/net6.0/AuthenticationSystem.AssemblyInfo.cs
+/Users/teiki/Documents/Teiki.io/CS/AuthenticationSystem/AuthenticationSystem/obj/Debug/net6.0/AuthenticationSystem.csproj.CoreCompileInputs.cache
+/Users/teiki/Documents/Teiki.io/CS/AuthenticationSystem/AuthenticationSystem/obj/Debug/net6.0/AuthenticationSystem.dll
+/Users/teiki/Documents/Teiki.io/CS/AuthenticationSystem/AuthenticationSystem/obj/Debug/net6.0/refint/AuthenticationSystem.dll
+/Users/teiki/Documents/Teiki.io/CS/AuthenticationSystem/AuthenticationSystem/obj/Debug/net6.0/AuthenticationSystem.pdb
+/Users/teiki/Documents/Teiki.io/CS/AuthenticationSystem/AuthenticationSystem/obj/Debug/net6.0/AuthenticationSystem.genruntimeconfig.cache
+/Users/teiki/Documents/Teiki.io/CS/AuthenticationSystem/AuthenticationSystem/obj/Debug/net6.0/ref/AuthenticationSystem.dll
